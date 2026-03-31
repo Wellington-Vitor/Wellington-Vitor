@@ -6,7 +6,7 @@
 <p align="left"> 
   <strong>Java Backend Developer Jr</strong> | Spring Boot • APIs REST • MySQL<br><br>
 
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (4º semestre – FATEC).  
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (4º semestre – MACKENZIE).  
   Atualmente trabalho como <strong>Técnico Mecânico de BodyMaker na Ball Corporation</strong> e estou em transição de carreira para a área de desenvolvimento backend.<br><br>
 
   Construo projetos em Java para fortalecer meu portfólio, evoluir tecnicamente e conquistar minha primeira oportunidade como Desenvolvedor Backend.
