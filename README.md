@@ -1,31 +1,32 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
      alt="ilustração de um computador" width="400px" align="right">
 
-<h1 align="left">Olá! 👋 Eu sou o <strong>Wellington Vitor</strong></h1>
+<h1 align="left">Hi! 👋 I'am <strong>Wellington Vitor</strong></h1>
 
 <p align="left"> 
   <strong>Java Backend Developer Jr</strong> | Spring Boot • APIs REST • MySQL<br><br>
 
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (4º semestre – MACKENZIE).  
-  Atualmente trabalho como <strong>Técnico Mecânico de BodyMaker na Ball Corporation</strong> e estou em transição de carreira para a área de desenvolvimento backend.<br><br>
+  Student of <strong>Systems Analysis and Development</strong> (4th semester – MACKENZIE).
 
-  Construo projetos em Java para fortalecer meu portfólio, evoluir tecnicamente e conquistar minha primeira oportunidade como Desenvolvedor Backend.
+  Currently working as a <strong>Mechanical Technician for BodyMakers at Ball Corporation</strong> and transitioning to backend development.
+
+  I build projects in Java to strengthen my portfolio, improve my technical skills, and secure my first opportunity as a Backend Developer.
 </p>
 
 ---
 
-## 🔭 No momento
+## 🔭 At the moment
 
 <p align="left">
-  • Desenvolvendo APIs REST com Java + Spring Boot.<br>
-  • Estudando Spring Security, JWT, arquitetura limpa e testes.<br>
-  • Criando projetos para meu portfólio em Java Backend.<br>
-  • Buscando minha primeira vaga como <strong>Desenvolvedor Backend / Java Jr</strong>.
+  • Developing REST APIs with Java + Spring Boot.<br>
+  • Studying Spring Security, JWT, clean architecture, and testing..<br>
+  • Creating projects for my Java Backend portfolio.<br>
+  • Seeking my first job as a <strong>Junior Backend/Java Developer</strong>.
 </p>
 
 ---
 
-# 🦄 Linguagens
+# 🦄 Languages
 
 <div align="left">
 
@@ -97,7 +98,7 @@
 
 ---
 
-# 🗄 Banco de Dados
+# 🗄 Data Base
 
 <div align="left">
 
@@ -117,7 +118,7 @@
 
 ---
 
-# 🛠 Ferramentas & DevOps
+# 🛠 Tools & DevOps
 
 <div align="left">
 
@@ -145,7 +146,7 @@
 
 ---
 
-# 📫 Entre em contato comigo
+# 📫 Contact me
 
 <p align="left">
 
@@ -161,4 +162,4 @@
 
 ---
 
-<h3>✨ Obrigado por visitar meu perfil! Sempre aprendendo e evoluindo 🚀</h3>
+<h3>✨ Thank you for visiting my profile! Always learning and evolving. 🚀</h3>
